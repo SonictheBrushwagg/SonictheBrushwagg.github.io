@@ -1,0 +1,1 @@
+﻿Apex Godsire	WRG	rare	Creature – Cat Druid 	166	WRG	5RGW	At the beginning of combat on your turn, you may have another target creature you control get +8/+8 until end of turn. If you do, Apex Godsire and that creature attack this turn if able.	3/3		normal	ALR		

@@ -1,0 +1,1 @@
+﻿Thraximundar the Terrible	UBR	mythic	Legendary Creature – Zombie Assassin 	230	UBR	U/RB	HasteNEWLINET: Copy target activated or triggered ability whose source was put into your graveyard from the battlefield this turn.NEWLINE3U/RB, Sacrifice another creature: Draw two cards and put two +1/+1 counters on Thraximundar the Terrible.	2/2		normal	ALR		
